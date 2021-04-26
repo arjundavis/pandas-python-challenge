@@ -5,7 +5,7 @@ A challenge to read a csv in python and export it...
 You will need python and the package pandas to complete this challenge. How you choose to set this up is up to you. 
 
 ## Instructions
-1. Use python and pandas to read "*cereals.csv*" provided in this repo (n.b. the files aren't separated by commas!)
+1. Use python and pandas to read "*cereals.csv*" provided in this repo (n.b. the files isn't separated by commas!)
 2. Print the column names and take a screenshot
 3. Change the datatype of the column '*rating*' to integer
 4. Export the dataframe to a new csv called "*cleaned_cereals.csv*"
