@@ -1,5 +1,5 @@
-# pandas-python challenge
-A challenge to read a csv in python and export it...
+# pandas-python challenge 
+A quick challenge to read a csv in python and export it...
 
 ## Requirements
 You will need python and the package pandas to complete this challenge. How you choose to set this up is up to you. 
